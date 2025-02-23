@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Léo<br><br>
+👋 Hey! I'm Léo<br><br>
 
 # 💫 About Me:
 🎓 Currently studying Software Engineering at Inteli | Instituto de Tecnologia e Liderança.<br>💻 Passionate about full-stack development, especially using Next.js, Vite and Django.<br>🚀 I also explore areas like crypto mining, Arduino automation, and data analysis.<br><br>📫 Want to connect? Feel free to reach out! 😃
