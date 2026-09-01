@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="maitau-primary-color@2x.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Bem-vindos! Eu sou Leonardo Corbi
 
